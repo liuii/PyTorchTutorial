@@ -14,4 +14,7 @@
 ### 04_Data_Loading_and_Processing_Tutorial
 数据加载与处理教程
 
+### 05_Deep_Learning_for_NLP_with_PyTorch
+自然语言处理教程
+
 待续:):
