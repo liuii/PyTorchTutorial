@@ -17,4 +17,10 @@
 ### 05_Deep_Learning_for_NLP_with_PyTorch
 自然语言处理教程
 
+### 06_Spatial_Transformer_Networks_Tutorial
+视觉注意力模型STN教程
+
+### 07_Neural_Transfer_with_PyTorch
+神经风格迁移教程
+
 待续:):
